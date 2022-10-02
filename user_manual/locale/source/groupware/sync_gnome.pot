@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Nextcloud latest User Manual latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-07 14:47+0100\n"
+"POT-Creation-Date: 2022-10-02 12:39+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,7 +41,7 @@ msgid "Enter your server URL, username and password. If you have enabled two fac
 msgstr ""
 
 #: ../../groupware/sync_gnome.rst:25
-msgid "In the next window, select which resources GNOME should access and press the cross in the top left to close:"
+msgid "In the next window, select which resources GNOME should access and press the cross in the top right to close:"
 msgstr ""
 
 #: ../../groupware/sync_gnome.rst:30
